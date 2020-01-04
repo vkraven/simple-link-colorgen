@@ -3,7 +3,7 @@ A simple tool to generate WCAG 2-acceptable link colours, given a body and backg
 Requires Python3
 
 ## Background
-This is a simple script. No guarantees included. It will write to a local file called #BODYCOLOUR_#BACKGROUNDCOLOR.txt
+This is a simple script. No guarantees included. It will write to a local file called BODY_BACKGROUND.txt
 
 ## Usage
 1) Make the script executable
